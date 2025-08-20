@@ -11,6 +11,7 @@ def _(mo):
     # Working Title `pyhtml`
 
     This is mainly an educational project to see how a dev package looks in a marimo notebook. 
+    Small update - testing delete me.....
 
     > This work is *heavily* inspired by [mohtml](https://koaning.github.io/mohtml/) which is heavily inspired by [FastHTML](https://fastht.ml/).
 
